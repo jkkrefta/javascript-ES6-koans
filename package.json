@@ -1,0 +1,19 @@
+{
+  "name": "javascript-es6-koans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "path_to_enlightenment.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajelinski/javascript-ES6-koans.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajelinski/javascript-ES6-koans/issues"
+  },
+  "homepage": "https://github.com/pajelinski/javascript-ES6-koans#readme"
+}
