@@ -1,6 +1,10 @@
 {
   "name": "javascript-es6-koans",
   "version": "1.0.0",
+  "engines": {
+    "npm": ">=3",
+    "node": ">=4"
+  },
   "scripts": {
     "build": "babel src -d lib"
   },
