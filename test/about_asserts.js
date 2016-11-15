@@ -1,21 +1,21 @@
 import {assert} from "chai";
 
-describe('About asserts', () => {
+describe('About Assert', () => {
 
   // We shall contemplate truth by testing reality, via asserts
-  it('test assert truth', () => {
+  it('assert truth', () => {
     assert.isTrue(false); // This should be true
   });
 
   // Enlightenment may be more easily achieved with appropriate
   // messages.
-  it('test assert with message', () => {
+  it('assert with message', () => {
     assert.isTrue(false, "This should be true -- Please fix this");
   });
 
   // To understand reality, we must compare our expectations against
   // reality.
-  it('test assert equality', () => {
+  it('assert equality', () => {
     var expected = __;
     var actual_value = 1 + 1;
 
@@ -23,7 +23,7 @@ describe('About asserts', () => {
   });
 
   //Some ways of asserting equality are better than others.
-  it('test a better way of asserting equality', () => {
+  it('better way of asserting equality', () => {
     var expected = __;
     var actual_value = 1 + 1;
 
@@ -31,7 +31,7 @@ describe('About asserts', () => {
   });
 
   // Sometimes we will ask you to fill in the values
-  it('test fill in values', () => {
+  it('fill in values', () => {
     assert.equal(__, 1 + 1);
   });
 
