@@ -1,5 +1,5 @@
 /* eslint quotes: ["off", "single"] */
-import { assert, expect } from "chai";
+import { assert } from "chai";
 import { __ } from "../src/helpers";
 
 describe("About Strings", () => {
